@@ -1,0 +1,24 @@
+Welcome to QR Code Maker and Reader App!
+
+-Version: v1.0.0
+
+-Description:
+  QR Code Maker and Reader is a user-friendly mobile application designed for effortless QR code scanning and generation. 
+  Our app provides a seamless experience, allowing you to quickly access information encoded in QR codes or create your own personalized QR codes.
+
+-Key Features:
+ - Scan QR Codes: Effortlessly scan QR codes using your device's camera.
+ - Generate QR Codes: Create custom QR codes for various purposes such as website links, contact information, and more.
+ - Scanning History: View a history of your scanned QR codes, stored locally on your device.
+ - Auto-Redirect: Instantly open URLs when scanning QR codes containing web links, Also supports automatic redirection to phone calls, Gmail, and web pages.
+
+-Why Choose QR Code Maker and Reader?
+ - Privacy-Focused: We respect your privacy. Our app only requests access to your device's camera for QR code functionality, and we do not collect any user data.
+ - Fast and Reliable: Experience quick and reliable QR code scanning and generation.
+
+-Connect With Us:
+ Have questions, feedback, or suggestions? We'd love to hear from you!
+  - Email: support@nquila-dev.com
+
+Thank you for choosing QR Code Maker and Reader!
+
